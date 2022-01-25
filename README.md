@@ -20,3 +20,7 @@ Nesse curso você vai dominar todo seu **git**  e  **github**  _do zero ao profi
 [Instagram](https://www.instagram.com/mariianadiaas/)
 
 [Youtube](https://www.youtube.com/watch?v=-EdDueMZIIc)
+
+>Este é um blockquate, usado para destacar alguma area.
+>
+>Segunda area destacada
