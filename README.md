@@ -24,3 +24,33 @@ Nesse curso você vai dominar todo seu **git**  e  **github**  _do zero ao profi
 >Este é um blockquate, usado para destacar alguma area.
 >
 >Segunda area destacada
+
+
+**Coamando para rodar projetos**
+
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+```js
+function showname (nome){
+    return "Bem vindo: " + name;
+}
+```
+
+**Uso do componente HTML**
+```html
+<h1>
+    Título do projeto
+    <span>Curso Git<span>
+</h1>
+```
+
+**Css padrão do projeto**
+```css
+.titulo{
+    background-color: #FFF
+    color: #FF0000;
+}
+```
