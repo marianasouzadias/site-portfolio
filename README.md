@@ -1,6 +1,20 @@
 ![Logo do git](https://www.gratispng.com/png-ossmnd/)
-# Bem vindo ao curso Git e Github.
+
+[Bem vindo](#bem-vindo-ao-curso-git-e-github) |
+[Módulos](#módulos) |
+[Rede Social]()
+
+# Bem vindo ao curso Git e 
+Github.
 Nesse curso você vai dominar todo seu **git**  e  **github**  _do zero ao profissional._
+
+**Ultimas updates:**
+- [x] Site responsivo.
+- [ ] Login com facebook.
+- [ ] Pagina sobre a empresa.
+
+
+
 
 ## Módulos:
 * Começando com Git.
@@ -17,6 +31,8 @@ Nesse curso você vai dominar todo seu **git**  e  **github**  _do zero ao profi
 3. Git avançado
 4. Usando github de forma profissional.
 
+
+### Rede Social:
 [Instagram](https://www.instagram.com/mariianadiaas/)
 
 [Youtube](https://www.youtube.com/watch?v=-EdDueMZIIc)
